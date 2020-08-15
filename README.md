@@ -1,2 +1,2 @@
-# pix-dapp
-PIX Decentralized Application
+# pix-blockchain
+PIX Blockchain

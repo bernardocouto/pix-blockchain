@@ -1,4 +1,4 @@
-module github.com/bernardocouto/pix-dapp/chaincode/qr_code_dinamico
+module github.com/bernardocouto/pix-blockchain/chaincode/qr_code_dinamico
 
 go 1.15
 

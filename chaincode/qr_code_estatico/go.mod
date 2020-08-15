@@ -1,4 +1,4 @@
-module github.com/bernardocouto/pix-dapp/chaincode/qr_code_estatico
+module github.com/bernardocouto/pix-blockchain/chaincode/qr_code_estatico
 
 go 1.15
 
