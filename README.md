@@ -34,7 +34,7 @@ CORE_CHAINCODE_LOGLEVEL=debug CORE_CHAINCODE_ID_NAME=qr_code_dinamico:0 CORE_PEE
 
 ## Utilizando os chaincodes
 
-Acesso ao terminal do container do CLI:
+Acesso ao terminal do container do Tools:
 ```shell
-docker exec -it cli bash
+docker exec -it tools bash
 ```
